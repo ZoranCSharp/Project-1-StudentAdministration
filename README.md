@@ -1,6 +1,5 @@
 # Student Administration
 
-[tree/master/StudentAdministration/src](#srcappcontextbroker)
 
 <b>0)</b> Import project <b><i>StudentAdministration.zip</i></b> (<i>File > Import > Existing projects into Workspace</i>) into <b>Eclipse</b>
 
@@ -47,6 +46,7 @@ into <b>SQL Server 2014 Management Studio</b>
 * <b>pass:</b> 1234
 
 ------------------------------------------------------------------------------------------
+#Demo
 <p align = "center">
 <img src="https://github.com/ZoranKJava/gifs/blob/master/ezgif.com-video-to-gif.gif" >
 
