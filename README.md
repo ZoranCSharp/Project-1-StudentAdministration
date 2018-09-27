@@ -6,7 +6,7 @@
 ------------------------------------------------------------------------------------------
 
 
-<b>1)</b> Import database from the folder "C:\...\\StudentAdministration\Student Administration database" 
+<b>1)</b> Import database from the folder <i>"C:\...\\StudentAdministration\Student Administration database"</i> 
 into <b>SQL Server 2014 Management Studio</b>
 
 ------------------------------------------------------------------------------------------
