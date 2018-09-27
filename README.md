@@ -1,28 +1,28 @@
 # Project 1 - Student-Administration
 
-0) Import project <b><i>StudentAdministration.zip</i></b> (<i>File > Import > Existing projects into Workspace</i>) into Eclipse
+<b>0)</b> Import project <b><i>StudentAdministration.zip</i></b> (<i>File > Import > Existing projects into Workspace</i>) into Eclipse
 >you will need installed jdk 10
 
 ------------------------------------------------------------------------------------------
 
 
-2) Import database from the folder "C:\...\\StudentAdministration\Student Administration database" 
+<b>1)</b> Import database from the folder "C:\...\\StudentAdministration\Student Administration database" 
 into SQL Server 2014 Management Studio
 
 ------------------------------------------------------------------------------------------
 
-3) Start project
+<b>3)</b> Start project
 
 ------------------------------------------------------------------------------------------
 
-4) for admin:
+<b>4)</b> for admin:
 
 * user:admin
 * pass:1234
 
 
 ------------------------------------------------------------------------------------------
-5) for students:
+<b>5)</b> for students:
 
 * user:1111111111
 * pass:1234
