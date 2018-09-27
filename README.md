@@ -8,7 +8,7 @@
 
 [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest)
 
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 <b>0)</b> Import project <b><i>StudentAdministration.zip</i></b> (<i>File > Import > Existing projects into Workspace</i>) into <b>Eclipse</b>
 
