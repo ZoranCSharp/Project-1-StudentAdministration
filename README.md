@@ -1,6 +1,7 @@
 # Project 1 - Student-Administration
 
-0)Import project StudentAdministration.zip (File > Import > Existing projects into Workspace) into Eclipse (you will need installed jdk 10)
+0)Import project <b><i>StudentAdministration.zip</i></b> (<u>File > Import > Existing projects into Workspace</u>) into Eclipse
+>you will need installed jdk 10
 
 ------------------------------------------------------------------------------------------
 
@@ -19,6 +20,7 @@ into SQL Server 2014 Management Studio
 user:admin
 
 pass:1234
+
 
 ------------------------------------------------------------------------------------------
 5)for students:
