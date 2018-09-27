@@ -1,14 +1,16 @@
 # Project 1 - Student-Administration
 
 <b>0)</b> Import project <b><i>StudentAdministration.zip</i></b> (<i>File > Import > Existing projects into Workspace</i>) into <b>Eclipse</b>
->you'll need installed jdk 10
+
+><i>you'll need installed jdk 10</i>
 
 ------------------------------------------------------------------------------------------
 
 
 <b>1)</b> Import backed up database from the folder <i>"C:\...\\StudentAdministration\Student Administration database"</i> 
 into <b>SQL Server 2014 Management Studio</b>
->restore StudentAdministration.bak
+
+><i>restore StudentAdministration.bak</i>
 ------------------------------------------------------------------------------------------
 
 <b>3)</b> <b>Start project</b>
