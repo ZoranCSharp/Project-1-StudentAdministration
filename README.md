@@ -1,46 +1,46 @@
 # Project 1 - Student-Administration
 
 <b>0)</b> Import project <b><i>StudentAdministration.zip</i></b> (<i>File > Import > Existing projects into Workspace</i>) into <b>Eclipse</b>
->you will need installed jdk 10
+>you'll need installed jdk 10
 
 ------------------------------------------------------------------------------------------
 
 
-<b>1)</b> Import database from the folder <i>"C:\...\\StudentAdministration\Student Administration database"</i> 
+<b>1)</b> Import backed up database from the folder <i>"C:\...\\StudentAdministration\Student Administration database"</i> 
 into <b>SQL Server 2014 Management Studio</b>
-
+>restore StudentAdministration.bak
 ------------------------------------------------------------------------------------------
 
-<b>3)</b> Start project
+<b>3)</b> <b>Start project</b>
 
 ------------------------------------------------------------------------------------------
 
 <b>4)</b> for admin:
 
-* user:admin
-* pass:1234
+* <b>user:</b>admin
+* <b>pass:</b>1234
 
 
 ------------------------------------------------------------------------------------------
 <b>5)</b> for students:
 
-* user:1111111111
-* pass:1234
+* <b>user:</b>1111111111
+* <b>pass:</b>1234
 
      or
 
-* user:2222222222
-* pass:1234
+* <b>user:</b>2222222222
+* <b>pass:</b>1234
 
      or
 
-* user:3333333333
-* pass:1234
+* <b>user:</b>3333333333
+* <b>pass:</b>1234
 
      or
 
-* user:4444444444
-* pass:1234
+* <b>user:</b>4444444444
+* <b>pass:</b>1234
 
 ------------------------------------------------------------------------------------------
 <p align = "center">
