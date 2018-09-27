@@ -1,0 +1,93 @@
+.button {
+    -fx-background-color: 
+        #28A515,
+        linear-gradient(#669C5E 0%, #3C942E 20%, #239012 100%),
+        linear-gradient(#56834F, #1E870E),
+        radial-gradient(center 50% 0%, radius 100%, rgba(145,206,135,0.9), rgba(66,243,39,0));
+    -fx-background-radius: 5,4,3,5;
+    -fx-background-insets: 0,1,2,0;
+    -fx-text-fill: white;
+    -fx-font-family: "Arial";
+    -fx-text-fill: linear-gradient(white, #d0d0d0);
+    -fx-font-size: 12px;
+    -fx-padding: 7px 10px;
+}
+
+
+.button:hover {
+-fx-focus-color: #323743;
+-fx-background-color: #6C8768, #42723A;
+-fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 0 , 1 );
+}
+
+
+
+.button:pressed {
+   -fx-background-color: 
+        #28A515,
+        linear-gradient(#669C5E 0%, #3C942E 20%, #239012 100%),
+        linear-gradient(#56834F, #1E870E),
+        radial-gradient(center 50% 0%, radius 100%, rgba(145,206,135,0.9), rgba(66,243,39,0));
+    -fx-background-radius: 5,4,3,5;
+    -fx-background-insets: 0,1,2,0;
+    -fx-text-fill: white;
+    -fx-font-family: "Arial";
+    -fx-text-fill: linear-gradient(white, #d0d0d0);
+    -fx-font-size: 12px;
+    -fx-padding: 8px 10px;
+}
+
+
+
+
+#redButton {
+    -fx-background-color: 
+        #A52121,
+        linear-gradient(#A57070 0%, #A24D4D 20%, #A81111 100%),
+        linear-gradient(#A52121, #C90707),
+        radial-gradient(center 50% 0%, radius 100%, rgba(233,174,174,0.9), rgba(228,133,133,0));
+    -fx-background-radius: 5,4,3,5;
+    -fx-background-insets: 0,1,2,0;
+    -fx-text-fill: white;
+    -fx-font-family: "Arial";
+    -fx-text-fill: linear-gradient(white, #d0d0d0);
+    -fx-font-size: 12px;
+    -fx-padding: 7px 10px;
+}
+
+
+#redButton:hover {
+-fx-focus-color: #FC7070;
+-fx-background-color: #AB3434, #9C0707;
+-fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 0 , 1 );
+}
+
+
+
+#redButton:pressed {
+   -fx-background-color: 
+        #A52121,
+        linear-gradient(#A57070 0%, #A24D4D 20%, #A81111 100%),
+        linear-gradient(#A52121, #C90707),
+        radial-gradient(center 50% 0%, radius 100%, rgba(233,174,174,0.9), rgba(228,133,133,0));
+    -fx-background-radius: 5,4,3,5;
+    -fx-background-insets: 0,1,2,0;
+    -fx-text-fill: white;
+    -fx-font-family: "Arial";
+    -fx-text-fill: linear-gradient(white, #d0d0d0);
+    -fx-font-size: 12px;
+    -fx-padding: 8px 10px;
+}
+
+
+
+
+
+.default-color0.chart-series-line {
+    -fx-stroke: #00B54E;
+}
+
+.default-color0.chart-line-symbol {
+    -fx-background-color: #00B54E, white;
+}
+ 

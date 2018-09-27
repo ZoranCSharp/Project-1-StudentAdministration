@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="318.0" prefWidth="380.0" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Text fill="#f57c00" layoutX="85.0" layoutY="68.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Student Administration">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Text>
+      <Text layoutX="85.0" layoutY="101.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Version 1.00" />
+      <Text layoutX="82.0" layoutY="138.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Designed and Created by :" />
+      <Text fill="#0091ea" layoutX="85.0" layoutY="169.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Zoran" />
+   </children>
+</AnchorPane>
