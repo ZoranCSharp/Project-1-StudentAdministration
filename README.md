@@ -2,7 +2,7 @@
 
 <b>0)</b> Import project <b><i>StudentAdministration.zip</i></b> (<i>File > Import > Existing projects into Workspace</i>) into <b>Eclipse</b>
 
-><i>you'll need installed jdk 10</i>
+><i>you'll need installed JDK 10</i>
 
 ------------------------------------------------------------------------------------------
 
@@ -19,30 +19,30 @@ into <b>SQL Server 2014 Management Studio</b>
 
 <b>4)</b> for admin:
 
-* <b>user:</b>admin
-* <b>pass:</b>1234
+* <b>user:</b> admin
+* <b>pass:</b> 1234
 
 
 ------------------------------------------------------------------------------------------
 <b>5)</b> for students:
 
-* <b>user:</b>1111111111
-* <b>pass:</b>1234
+* <b>user:</b> 1111111111
+* <b>pass:</b> 1234
 
      or
 
-* <b>user:</b>2222222222
-* <b>pass:</b>1234
+* <b>user:</b> 2222222222
+* <b>pass:</b> 1234
 
      or
 
-* <b>user:</b>3333333333
-* <b>pass:</b>1234
+* <b>user:</b> 3333333333
+* <b>pass:</b> 1234
 
      or
 
-* <b>user:</b>4444444444
-* <b>pass:</b>1234
+* <b>user:</b> 4444444444
+* <b>pass:</b> 1234
 
 ------------------------------------------------------------------------------------------
 <p align = "center">
