@@ -39,6 +39,4 @@ user:4444444444
 pass:1234
 
 ------------------------------------------------------------------------------------------
-<video width="320" height="240" controls>
-  <source src="https://www.instagram.com/p/BnNbUHRHGkY/?utm_source=ig_web_options_share_sheet" type="video/flv">
-</video>
+<a href="https://imgflip.com/gif/1at9hq"><img src="https://github.com/ZoranKJava/gifs/blob/master/ezgif.com-video-to-gif.gif"></>
