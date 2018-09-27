@@ -1,6 +1,6 @@
 # Student Administration
 
-[Demo](master/README.md#demo)
+[Demo](https://github.com/ZoranKJava/Project_1_StudentAdministration/blob/master/README.md#demo)
 
 [![HitCount](http://hits.dwyl.io/{username}/{project}.svg)](http://hits.dwyl.io/{username}/{project})
 
