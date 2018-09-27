@@ -1,6 +1,6 @@
 # Project 1 - Student-Administration
 
-0)Import (File > Import > Existing projects into Workspace) project StudentAdministration.zip into Eclipse (you will need installed jdk 10)
+0)Import project StudentAdministration.zip (File > Import > Existing projects into Workspace) into Eclipse (you will need installed jdk 10)
 
 ------------------------------------------------------------------------------------------
 
