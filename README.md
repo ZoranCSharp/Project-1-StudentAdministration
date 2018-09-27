@@ -1,15 +1,15 @@
 # Project-1---Student-Administration
 
-
+0)Import all files from C:\...\\StudentAdministration\src into Eclipse
 
 ------------------------------------------------------------------------------------------
 
-1)Import database from the folder "StudentAdministration\Student Administration database" 
+1)Import database from the folder "C:\...\\StudentAdministration\Student Administration database" 
 into SQL Server 2014 Management Studio
 
 ------------------------------------------------------------------------------------------
 
-2)Import JAR files from the folder "StudentAdministration\externalLibrary"
+2)Import JAR files from the folder "C:\...\\StudentAdministration\externalLibrary"
 
 ------------------------------------------------------------------------------------------
 3)for admin:
@@ -40,4 +40,4 @@ pass:1234
 
 ------------------------------------------------------------------------------------------
 <p align = "center">
-<a href="https://imgflip.com/gif/1at9hq"><img src="https://github.com/ZoranKJava/gifs/blob/master/ezgif.com-video-to-gif.gif" >
+<a href="https://imgflip.com/gif/1at9hq"><img src="https://github.com/ZoranKJava/gifs/blob/master/ezgif.com-video-to-gif.gif" ></a>
