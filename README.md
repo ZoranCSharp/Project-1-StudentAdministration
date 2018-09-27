@@ -39,4 +39,5 @@ user:4444444444
 pass:1234
 
 ------------------------------------------------------------------------------------------
-<a href="https://imgflip.com/gif/1at9hq"><img src="https://github.com/ZoranKJava/gifs/blob/master/ezgif.com-video-to-gif.gif"></>
+
+<a href="https://imgflip.com/gif/1at9hq"><img src="https://github.com/ZoranKJava/gifs/blob/master/ezgif.com-video-to-gif.gif" width="40" height="40">
