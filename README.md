@@ -1,7 +1,9 @@
 # Student Administration  [![HitCount](http://hits.dwyl.io/{username}/{project}.svg)](http://hits.dwyl.io/{username}/{project})[![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](https://github.com/ZoranKJava/Project_1_StudentAdministration/tree/master/StudentAdministration)[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ZoranKJava/Project_1_StudentAdministration/graphs/commit-activity)
+<br>
 
 [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-200x33.png?v=103)](https://github.com/ZoranKJava/Project_1_StudentAdministration/blob/master/README.md#demo)
-
+<br>
+<br>
 
 <b>0)</b> Import project <b><i>StudentAdministration.zip</i></b> (<i>File > Import > Existing projects into Workspace</i>) into <b>Eclipse</b>
 
