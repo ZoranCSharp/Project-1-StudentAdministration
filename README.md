@@ -2,7 +2,8 @@
 
 [Demo](https://github.com/ZoranKJava/Project_1_StudentAdministration/blob/master/README.md#demo)
 
-[![HitCount](http://hits.dwyl.io/{ZoranKJava}/{Project_1_StudentAdministration}.svg)](http://hits.dwyl.io/{ZoranKJava}/{Project_1_StudentAdministration})
+[![HitCount](http://hits.dwyl.io/{username}/{project}.svg)](http://hits.dwyl.io/{username}/{project})
+
 
 <b>0)</b> Import project <b><i>StudentAdministration.zip</i></b> (<i>File > Import > Existing projects into Workspace</i>) into <b>Eclipse</b>
 
