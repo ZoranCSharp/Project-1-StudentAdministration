@@ -3,7 +3,7 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-200x33.png?v=103)](https://github.com/ZoranKJava/Project_1_StudentAdministration/blob/master/README.md#demo)
 
-<img src="https://github.com/ZoranKJava/gifs/blob/master/Green%20Button.jpg" href="https://github.com/ZoranKJava/Project_1_StudentAdministration/blob/master/README.md#demo">
+<a href="https://github.com/ZoranKJava/Project_1_StudentAdministration/blob/master/README.md#demo"><img src="https://github.com/ZoranKJava/gifs/blob/master/Green%20Button.jpg">
 <br>
 <br>
 
