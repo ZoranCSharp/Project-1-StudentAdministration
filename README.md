@@ -48,4 +48,4 @@ into <b>SQL Server 2014 Management Studio</b>
 
 ------------------------------------------------------------------------------------------
 <p align = "center">
-<a href="https://imgflip.com/gif/1at9hq"><img src="https://github.com/ZoranKJava/gifs/blob/master/ezgif.com-video-to-gif.gif" ></a>
+<a <img src="https://github.com/ZoranKJava/gifs/blob/master/ezgif.com-video-to-gif.gif" ></a>
