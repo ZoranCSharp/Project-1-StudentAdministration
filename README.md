@@ -1,5 +1,4 @@
-
-# Student Administration
+#Student Administration
 
 
 <b>0)</b> Import project <b><i>StudentAdministration.zip</i></b> (<i>File > Import > Existing projects into Workspace</i>) into <b>Eclipse</b>
