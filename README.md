@@ -1,6 +1,7 @@
 # Project 1 - Student-Administration
 
-0)Import <p style='color:red'>(File > Import > Existing projects into Workspace)</p> project StudentAdministration.zip into Eclipse (you will need installed jdk 10)
+0)Import ```diff
++ (File > Import > Existing projects into Workspace)``` project StudentAdministration.zip into Eclipse (you will need installed jdk 10)
 
 ------------------------------------------------------------------------------------------
 
